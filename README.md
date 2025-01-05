@@ -12,7 +12,7 @@ This repository contains:
 ## 🛠️ Skills and Tools
 Throughout this course, I have worked with:
 - Programming Languages: NULL.
-- Tools and Technologies: Microsoft Powerpoint, Canva.
+- Tools and Technologies: Microsoft Powerpoint, Microsoft Word, Canva.
 - Other relevant skills: Script typing, presentation and Poster design.
 
 ## 📜 Objectives
