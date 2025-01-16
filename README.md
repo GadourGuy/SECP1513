@@ -23,7 +23,7 @@ This portfolio aims to:
 
 ## 🤝 Acknowledgments
 I would like to thank:
-- dr. suri ati for guidance and inspiration.
+- Dr. Suriati binti Sadimon for guidance and inspiration.
 - My peers for their collaboration and support.
 - UTM for this valuable learning opportunity.
 
